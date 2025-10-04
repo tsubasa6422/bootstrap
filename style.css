@@ -3,3 +3,45 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header{
+  padding:20px;
+  background-color: fuchsia;
+}
+
+.b{
+  background-color:lightpink;
+  margin-top:10px;
+  margin-bottom:10px;
+
+}
+
+.logo{
+  margin-left:10px;
+  margin-right: 300px;
+}
+.main{
+  padding:20px;
+}
+
+.main-contents{
+  padding:20px;
+  background-color:darkgreen;
+}
+
+.a{
+  background-color:yellow;
+  padding:5px;
+  margin:5px;
+}
+
+.side-bar{
+  padding:20px;
+  background-color:chartreuse;
+}
+
+.footer{
+  padding:20px;
+  background-color:blue
+}
+
