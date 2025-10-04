@@ -5,43 +5,44 @@
 }
 
 .header{
-  padding:20px;
-  background-color: fuchsia;
+  background-color:#ff00ff;
+
 }
 
 .b{
   background-color:lightpink;
-  margin-top:10px;
-  margin-bottom:10px;
+  height:70px;
+  
 
 }
 
 .logo{
-  margin-left:10px;
-  margin-right: 300px;
+  
 }
 .main{
-  padding:20px;
+
 }
 
 .main-contents{
-  padding:20px;
-  background-color:darkgreen;
+  background-color:#00b522;
 }
 
-.a{
-  background-color:yellow;
-  padding:5px;
-  margin:5px;
+.box{
+  background-color:#fff75a;
+  height:130px;
+
 }
 
 .side-bar{
-  padding:20px;
-  background-color:chartreuse;
+  background-color:#d8ffb6;
 }
 
 .footer{
-  padding:20px;
-  background-color:blue
+  background-color:#52a1ff;
+}
+
+.c{
+  background-color:#b6e7ff;
+  height:40px;
 }
 
